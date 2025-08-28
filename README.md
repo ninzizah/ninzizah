@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @ninzizah
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there 👋, I'm Ninziza Shema Honore  
 
-<!---
-ninzizah/ninzizah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **IT Student @ Mount Kenya University**  
+🌱 Passionate about **software development, AI, and full-stack projects**  
+🚀 5+ years of coding experience, building impactful solutions  
+
+---
+
+### 🔭 Current Projects  
+- 🌱 **IMBUTOCARE RWANDA** – AI-powered plant disease detection app (https://imbutocare-rwanda.netlify.app/)
+- 📱 **Buddy for Life** – Student wellbeing & mentorship platform  
+
+---
+
+### 🛠️ Tech Stack  
+- **Languages:** JavaScript | Python | PHP | Kotlin | Java  
+- **Frameworks:** React | Ionic | Node.js  
+- **Databases:** MySQL | MongoDB | Firebase  
+- **Tools:** Git | Docker | VS Code | Android Studio  
+
+---
+
+### 📫 Connect with Me  
+- GitHub: [@ninzizah](https://github.com/ninzizah)  
+- LinkedIn: (https://www.linkedin.com/in/ninziza-shema-honore-b4400421a/)  
+- Email: [shema2020honore@gmail.com]  
+  -Contact:+250788904242
+---
+
+⭐️ *"I love turning ideas into solutions that make an impact."*  
