@@ -7,7 +7,7 @@
 ---
 
 ### 🔭 Current Projects  
-- 🌱 **IMBUTOCARE RWANDA** – AI-powered plant disease detection app (https://imbutocare-rwanda.netlify.app/)
+- 🌱 **IMBUTOCARE RWANDA** – AI-powered plant disease detection app (https://imbutocare-rwanda.netlify.app/) We're continuously building and improving the system.
 - 📱 **Buddy for Life** – Student wellbeing & mentorship platform  
 
 ---
