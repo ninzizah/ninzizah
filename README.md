@@ -7,7 +7,7 @@
 ---
 
 ### 🔭 Current Projects  
--  **IMBUTOCARE RWANDA** – AI-powered plant disease detection app(https://apkpure.com/p/com.agroassist.ai)
+-  **AgroAssist AI** – AI-powered plant disease detection app(https://apkpure.com/p/com.agroassist.ai)
        We're continuously building and improving the system. 
 
 ---
