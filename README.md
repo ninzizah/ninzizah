@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ninziza Shema Honore  
+# Hi there, I'm Ninziza Shema Honore  
 
  **IT Student @ Mount Kenya University**  
  Passionate about **software development, AI, and full-stack projects**  
@@ -6,7 +6,7 @@
 
 ---
 
-### 🔭 Current Projects  
+### Current Projects  
 -  **AgroAssist AI** – AI-powered plant disease detection app(https://apkpure.com/p/com.agroassist.ai)
        We're continuously building and improving the system. 
 
@@ -27,4 +27,4 @@
   -Contact:+250788904242
 ---
 
-⭐️ *"I love turning ideas into solutions that make an impact."*  
+ *"I love turning ideas into solutions that make an impact."*  
