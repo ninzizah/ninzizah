@@ -1,4 +1,3 @@
-# God is real, unless declared as an integer🐒
 # I'm Ninziza Shema Honore  
 
  **Software Engineer | Full-Stack Development | AI-Powered Solutions**  
