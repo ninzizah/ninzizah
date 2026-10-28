@@ -1,16 +1,12 @@
-# Hi there, I'm Ninziza Shema Honore  
+# God is real, unless declared as an integer🐒
+# I'm Ninziza Shema Honore  
 
- **IT Student @ Mount Kenya University**  
- Passionate about **software development, AI, and full-stack projects**  
+ **Software Engineer | Full-Stack Development | AI-Powered Solutions**  
+ Passionate about **software development,and full-stack projects**  
  5+ years of coding experience, building impactful solutions  
 
 ---
 
-### Current Projects  
--  **AgroAssist AI** – AI-powered plant disease detection app(https://apkpure.com/p/com.agroassist.ai)
-       We're continuously building and improving the system. 
-
----
 
 ### Tech Stack  
 - **Languages:** JavaScript | Python | PHP | Kotlin | Java  
@@ -21,10 +17,10 @@
 ---
 
 ### Connect with Me  
-- GitHub: [@ninzizah](https://github.com/ninzizah)  
+- portofolio: https://ninziza-shema-honore.onrender.com/ 
 - LinkedIn: (https://www.linkedin.com/in/ninziza-shema-honore-b4400421a/)  
 - Email: [shema2020honore@gmail.com]  
   -Contact:+250788904242
 ---
 
- *"I love turning ideas into solutions that make an impact."*  
+ *"If in doubt, flat out."*  
